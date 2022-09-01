@@ -1,16 +1,15 @@
-### Hi there 👋
+A web2 developer in my previous life.
 
-<!--
-**0xosas/0xosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+Some Articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Bit Operations](https://hackmd.io/@0xosas/B1H8OY03c)
+
+[Optimized tic-tac-toe game in Solidity](https://hackmd.io/@0xosas/S1uWnLChq)
+
+[Ethereum block limit](https://hackmd.io/@0xosas/By6lVZuaq)
+
+[Why you should revert early](https://hackmd.io/@0xosas/S1GNDOFT5)
+
+[An experimental minsweeper implementation](https://hackmd.io/@0xosas/HyMJMwcAc)
